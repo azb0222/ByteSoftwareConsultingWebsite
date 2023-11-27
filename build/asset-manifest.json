@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5229b2b.css",
+    "main.js": "/static/js/main.20f40856.js",
+    "static/js/787.6bef374e.chunk.js": "/static/js/787.6bef374e.chunk.js",
+    "static/media/heroDev.gif": "/static/media/heroDev.3a6b9048806bd55621f6.gif",
+    "static/media/DevTeam.gif": "/static/media/DevTeam.e35c67022bd55d3d5fa4.gif",
+    "static/media/owen.png": "/static/media/owen.0f68cd816526012f54ec.png",
+    "static/media/asritha.jpeg": "/static/media/asritha.4ed5b037dafc480866e3.jpeg",
+    "static/media/laravel.png": "/static/media/laravel.8b2939ca7ad8851c40a2.png",
+    "static/media/bytelogo.png": "/static/media/bytelogo.95e0d8761019e613aabb.png",
+    "static/media/quote.png": "/static/media/quote.df2ad97b1caecf6586ef.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c5229b2b.css.map": "/static/css/main.c5229b2b.css.map",
+    "main.20f40856.js.map": "/static/js/main.20f40856.js.map",
+    "787.6bef374e.chunk.js.map": "/static/js/787.6bef374e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5229b2b.css",
+    "static/js/main.20f40856.js"
+  ]
+}
